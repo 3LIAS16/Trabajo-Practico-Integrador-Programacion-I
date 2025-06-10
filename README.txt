@@ -6,6 +6,10 @@ Alumnos: González, Nicolás - Carulla, Elias
 Materia: Programación I
 Profesor: Prof. Cinthia Rigoni, Prof. Ariel Enferrel
 
+
+-----------------------------------------------------
+LINK AL VIDEO EXPLICATIVO: https://drive.google.com/file/d/1ejEPHEv-4RqGwIFr9HkE_kqD2AvcJ_Er/view?usp=sharing
+-----------------------------------------------------
 -----------------------------------------------------
 📌 DESCRIPCIÓN GENERAL
 -----------------------------------------------------
